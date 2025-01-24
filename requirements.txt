@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+
+# For OpenAI models
+openai
+
+# For Anthropic models 
+anthropic
+
+# For Meta LLaMA models
+torch
+transformers
+
+# For Google Gemini models
+google-api-python-client
